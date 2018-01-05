@@ -1,4 +1,4 @@
-<!-- <category id="catBugcan">
+<category id="catBugcan">
   <block type="variables_set">
     <field name="VAR">bugcan1</field>
     <value name="VALUE">
@@ -21,4 +21,4 @@
     <field name="bugnum">bugnum</field>
   </block>
 
-</category> -->
+</category>
